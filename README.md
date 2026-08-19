@@ -30,8 +30,8 @@ vector store o el LLM— sin tocar el resto del pipeline.
 | Entorno | Google Colab |
 | Base vectorial | ChromaDB |
 | Inferencia LLM | Groq API |
-| Modelo | <!-- COMPLETAR: copiar el string exacto del notebook, ej. llama-3.3-70b-versatile --> |
-| Embeddings | <!-- COMPLETAR: ej. all-MiniLM-L6-v2 / sentence-transformers --> |
+| Modelo | llama-3.3-70b-versatile |
+| Embeddings | SentenceTransformer |
 
 ## Cómo ejecutarlo
 
